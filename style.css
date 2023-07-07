@@ -1,0 +1,20 @@
+body{
+    background-color: lightgreen;
+    margin: 80px
+}
+.Registration{
+    background-color:lightseagreen ;
+    padding-left: 230px;
+    height:420px ;
+    width: 400px;
+}
+#gender{
+    width: 128px;
+    height: 30;
+}
+#btn{
+    background-color: green;
+    color: white;
+    height: 30px;
+    width: 128px;
+}
